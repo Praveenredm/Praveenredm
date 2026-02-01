@@ -21,3 +21,6 @@ Full Stack Web Developer and UI Designer
 </p>
 <a href="https://www.github.com/Praveenredm" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Praveenredm?logo=github&style=for-the-badge&color=64748b&labelColor=22272e" /></a>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
