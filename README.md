@@ -22,4 +22,6 @@ Full Stack Web Developer and UI Designer
 <a href="https://www.github.com/Praveenredm" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Praveenredm?logo=github&style=for-the-badge&color=64748b&labelColor=22272e" /></a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Praveenredm&theme=highcontrast&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+
 
