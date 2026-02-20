@@ -7,7 +7,7 @@ Full Stack Web Developer and UI Designer
 “I’m a software engineering student who enjoys breaking down complex problems and building clean, scalable applications while continuously improving my technical fundamentals.”
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [https://praveenredm.github.io/Protfolio-Praveen/](http://https://praveenredm.github.io/Protfolio-Praveen/)
+* 🖥️  See my portfolio at [https://praveen-portfolio-l3kq.vercel.app/](https://praveen-portfolio-l3kq.vercel.app/)
 * ✉️  You can contact me at [pp873093@gmail.com](mailto:pp873093@gmail.com)
 * 🧠  I'm currently learning Machine Learning and Automations
 * 👥  I'm looking to collaborate on Intresting projects
