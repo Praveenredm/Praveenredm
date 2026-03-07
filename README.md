@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Praveen
 ================================================================================================================================
 
-Full Stack Web Developer and React Native Developer
+Full Stack Web Developer and UI Designer
 ----------------------------------------
 
 “I’m a software engineering student who enjoys breaking down complex problems and building clean, scalable applications while continuously improving my technical fundamentals.”
