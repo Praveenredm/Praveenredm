@@ -18,61 +18,17 @@ Full Stack Web Developer and UI Designer
 <p align="left"> <a href="https://www.github.com/Praveenredm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/praveen-p-5a0182287/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 <p align="left">
 <p align="left">
-## Tech Stack
+## 🚀 Tech Stack
 
-<div align="center">
-  <table style="border-collapse: separate; border-spacing: 12px; width: 100%; max-width: 1100px;">
-    <tr>
-      <!-- Column 1 -->
-      <td style="background: #0f172a; border-radius: 16px; padding: 24px; text-align: center; border: 1px solid #1e293b;">
-        <h3 style="color: #c084fc; margin: 0 0 20px 0; font-size: 1.4em;">Programming Languages</h3>
-        <img src="https://skillicons.dev/icons?i=java" width="64" height="64" alt="Java" style="margin: 8px; transition: all 0.3s ease;"/>
-        <img src="https://skillicons.dev/icons?i=javascript" width="64" height="64" alt="JavaScript" style="margin: 8px; transition: all 0.3s ease;"/>
-        <img src="https://skillicons.dev/icons?i=typescript" width="64" height="64" alt="TypeScript" style="margin: 8px; transition: all 0.3s ease;"/>
-        <img src="https://skillicons.dev/icons?i=python" width="64" height="64" alt="Python" style="margin: 8px; transition: all 0.3s ease;"/>
-      </td>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,html,css,react,mongodb,postgres,firebase,aws,jenkins,git,github,figma,notion" />
+</p>
 
-      <!-- Column 2 -->
-      <td style="background: #0f172a; border-radius: 16px; padding: 24px; text-align: center; border: 1px solid #1e293b;">
-        <h3 style="color: #c084fc; margin: 0 0 20px 0; font-size: 1.4em;">Frameworks & Libraries</h3>
-        <img src="https://skillicons.dev/icons?i=react" width="64" height="64" alt="React" style="margin: 8px; transition: all 0.3s ease;"/>
-        <img src="https://skillicons.dev/icons?i=nextjs" width="64" height="64" alt="Next.js" style="margin: 8px; transition: all 0.3s ease;"/>
-        <img src="https://skillicons.dev/icons?i=spring" width="64" height="64" alt="Spring" style="margin: 8px; transition: all 0.3s ease;"/>
-        <img src="https://skillicons.dev/icons?i=tailwind" width="64" height="64" alt="Tailwind" style="margin: 8px; transition: all 0.3s ease;"/>
-      </td>
-    </tr>
+<p align="center">
 
-    <tr>
-      <!-- Column 3 -->
-      <td style="background: #0f172a; border-radius: 16px; padding: 24px; text-align: center; border: 1px solid #1e293b;">
-        <h3 style="color: #c084fc; margin: 0 0 20px 0; font-size: 1.4em;">Databases</h3>
-        <img src="https://skillicons.dev/icons?i=mongodb" width="64" height="64" alt="MongoDB" style="margin: 8px; transition: all 0.3s ease;"/>
-        <img src="https://skillicons.dev/icons?i=postgres" width="64" height="64" alt="PostgreSQL" style="margin: 8px; transition: all 0.3s ease;"/>
-        <img src="https://skillicons.dev/icons?i=firebase" width="64" height="64" alt="Firebase" style="margin: 8px; transition: all 0.3s ease;"/>
-      </td>
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48"/>
+</p>
 
-      <!-- Column 4 -->
-      <td style="background: #0f172a; border-radius: 16px; padding: 24px; text-align: center; border: 1px solid #1e293b;">
-        <h3 style="color: #c084fc; margin: 0 0 20px 0; font-size: 1.4em;">Tools & Platforms</h3>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,railway,figma,docker" width="64" height="64" alt="tools" style="margin: 8px; transition: all 0.3s ease;"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<style>
-  img {
-    border-radius: 12px;
-    background: rgba(30, 41, 59, 0.6);
-    padding: 8px;
-  }
-
-  img:hover {
-    transform: scale(1.18) translateY(-6px);
-    filter: drop-shadow(0 0 16px #a78bfa) brightness(1.2);
-    transition: all 0.35s ease;
-  }
-</style>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Praveenredm&theme=dark&hide_longest_streak=true)](https://git.io/streak-stats)
+</div></div>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Praveenredm&theme=dark&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
