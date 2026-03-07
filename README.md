@@ -18,7 +18,7 @@ Full Stack Web Developer and UI Designer
 <p align="left"> <a href="https://www.github.com/Praveenredm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/praveen-p-5a0182287/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 <p align="left">
 <p align="left">
-## 🚀 Tech Stack
+### Tech Stack 
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,html,css,react,mongodb,postgres,firebase,aws,jenkins,git,github,figma,notion" />
@@ -29,6 +29,8 @@ Full Stack Web Developer and UI Designer
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48"/>
 </p>
 
-</div></div>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Praveenredm&theme=dark&hide_longest_streak=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Praveenredm&theme=dark" />
+</p>>
 
 
