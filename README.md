@@ -18,73 +18,91 @@ Full Stack Web Developer and UI Designer
 <p align="left"> <a href="https://www.github.com/Praveenredm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/praveen-p-5a0182287/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 <p align="left">
 <p align="left">
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" />
-  </a>
+ ## My Tech Stack
 
-  <!-- Backend -->
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" />
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" />
-  </a>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>Programming Languages</h3>
+        <br/>
+        <a href="https://www.java.com/" target="_blank"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/></a>
+        <a href="https://www.javascript.com/" target="_blank"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/></a>
+        <a href="https://www.python.org/" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/></a>
+        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65"/></a>
+      </td>
+      <td align="center" width="50%">
+        <h3>Frameworks & Libraries</h3>
+        <br/>
+        <a href="https://react.dev/" target="_blank"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/></a>
+        <a href="https://nextjs.org/" target="_blank"><img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="Next.js" width="65" height="65"/></a>
+        <a href="https://spring.io/" target="_blank"><img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring Boot" width="65" height="65"/></a>
+        <a href="https://tailwindcss.com/" target="_blank"><img src="https://techstack-generator.vercel.app/tailwindcss-icon.svg" alt="Tailwind CSS" width="65" height="65"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>Databases</h3>
+        <br/>
+        <a href="https://www.mongodb.com/" target="_blank"><img src="https://techstack-generator.vercel.app/mongo-icon.svg" alt="MongoDB" width="65" height="65"/></a>
+        <a href="https://www.postgresql.org/" target="_blank"><img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="65" height="65"/></a>
+        <a href="https://firebase.google.com/" target="_blank"><img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="Firebase" width="65" height="65"/></a>
+      </td>
+      <td align="center">
+        <h3>Tools & Platforms</h3>
+        <br/>
+        <a href="https://git-scm.com/" target="_blank"><img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65"/></a>
+        <a href="https://www.figma.com/" target="_blank"><img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma" width="65" height="65"/></a>
+        <a href="https://code.visualstudio.com/" target="_blank"><img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VS Code" width="65" height="65"/></a>
+        <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="65" height="65"/></a>
+        <a href="https://railway.app/" target="_blank"><img src="https://skillicons.dev/icons?i=railway" alt="Railway" width="65" height="65"/></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-  <!-- Database -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" />
-  </a>
+<style>
+  img {
+    transition: all 0.3s ease;
+    margin: 0 8px 12px 8px;
+  }
 
-  <!-- Tools & Platforms (Hosting/Deployment) -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" />
-  </a>
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS Amplify" title="AWS Amplify" width="36" height="36" />
-  </a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" width="36" height="36" />
-  </a>
-  <a href="https://railway.app/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=railway" alt="Railway" title="Railway" width="36" height="36" />
-  </a>
+  img:hover {
+    transform: scale(1.15);
+    filter: drop-shadow(0 0 12px rgba(100, 200, 255, 0.8));
+    animation: glow 1.5s infinite alternate;
+  }
 
-  <!-- Design -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" />
-  </a>
-  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" alt="Sketch" title="Sketch" width="36" height="36" />
-  </a>
+  @keyframes glow {
+    from {
+      filter: drop-shadow(0 0 8px rgba(100, 255, 200, 0.6));
+    }
+    to {
+      filter: drop-shadow(0 0 20px rgba(100, 255, 200, 0.9));
+    }
+  }
 
-  <!-- Version Control -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
-  </a>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 900px;
+    background: #0d1117;
+    border-radius: 12px;
+    overflow: hidden;
+  }
 
-  <!-- Automation -->
-  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=n8n" alt="n8n" title="n8n" width="36" height="36" />
-  </a>
+  td {
+    padding: 20px 10px;
+    background: #161b22;
+    border: 1px solid #30363d;
+  }
 
-  <!-- Editor -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
-  </a>
-</p>
-<a href="https://www.github.com/Praveenredm" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Praveenredm?logo=github&style=for-the-badge&color=64748b&labelColor=22272e" /></a>
-
+  h3 {
+    color: #c9d1d9;
+    margin: 0 0 16px 0;
+    font-size: 1.4em;
+  }
+</style>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Praveenredm&theme=dark&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
