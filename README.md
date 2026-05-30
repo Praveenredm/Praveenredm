@@ -30,6 +30,16 @@ Full Stack Web Developer and UI Designer
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48"/>
 </p>
 
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/praveenredm">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=praveenredm&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="praveenredm's GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=praveenredm&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Praveenredm&theme=dark" />
 </p>
@@ -43,8 +53,13 @@ Full Stack Web Developer and UI Designer
 </picture>
 
 
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
+
+
+
+
 
 
