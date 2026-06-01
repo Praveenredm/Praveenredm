@@ -41,14 +41,9 @@ Full Stack Web Developer and UI Designer
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Praveenredm&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=praveenredm&theme=dark&hide_border=false" />
 </p>
-
-
-
-# 📊 GitHub Stats:
-        ![](https://streak-stats.demolab.com/?user=praveenredm&theme=dark&hide_border=false)<br/>
-
+ 
 
 
 <div align="center">
